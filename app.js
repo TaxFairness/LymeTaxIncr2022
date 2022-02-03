@@ -19,11 +19,11 @@ d3.csv('TaxIncrease.csv').then(function (data) {
 
         // console.log(inputValue.length);
         // console.log(movies);
-        if (inputValue.length < 6) {
+        if (inputValue.length < 2) {
             d3.select('p')
                 .classed('noresults2', true)
                 .html(
-                    '<center><strong>Please try using more than 5 characters to avoid too many results!</strong>'
+                    '<center><strong>Please enter more characters for the street name</strong>'
                 )
             inputValue = 'Something to give no results'
         }
@@ -50,28 +50,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
             d3.select('tbody')
                 .insert('tr')
                 .html(
-                    '<td>' +
-                        [i + 1] +
-                        '</td>' +
-                        '<td>' +
-                        '<a href=https://www.imdb.com/title/' +
-                        output[i]['imdb_title_id'] +
-                        " target='_blank'>" +
-                        output[i]['original_title'] +
-                        '</a>' +
-                        '</td>' +
-                        '<td>' +
-                        output[i]['avg_vote'] +
-                        '</td>' +
-                        '<td>' +
-                        output[i]['year'] +
-                        '</td>' +
-                        '<td>' +
-                        output[i]['director'] +
-                        '</td>' +
-                        '<td>' +
-                        output[i]['description'] +
-                        '</td>'
+                    `<td>${output[i]['original_title']}</td><td>${output[i]['avg_vote']}</td><td></td><td> </td>`
                 )
         }
     }
