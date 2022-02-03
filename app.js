@@ -1,4 +1,4 @@
-d3.csv('movies.csv').then(function (data) {
+d3.csv('TaxIncrease.csv').then(function (data) {
     // console.log(data);
 
     var movies = data
@@ -41,7 +41,7 @@ d3.csv('movies.csv').then(function (data) {
                     '<center><strong>No results. Please check your spelling!</strong>'
                 )
         }
-        output = _.sortBy(filteredData, 'avg_vote').reverse()
+        output = _.sortBy(filteredData, StreetSort)
 
         for (var i = 0; i < filteredData.length; i++) {
             // console.log(output[i]['original_title'])
@@ -77,3 +77,42 @@ d3.csv('movies.csv').then(function (data) {
     }
     window.resizeTo(screen.width, screen.height)
 })
+
+// Sort street addresses - by street name, then by optional street number
+function StreetSort(a,b) {
+
+    function parseStreetAddress(adrs){
+        let numRE = /^(\d*)/ig // match leading digits
+        let theAdrs = adrs.original_title
+        // console.log("theAdrs: %s",theAdrs, JSON.stringify(adrs))
+        let aObj = numRE.exec(theAdrs)	// locate leading digits
+        let num = ""
+        let street = ""
+        if (aObj == null)
+            street = theAdrs
+        else  {
+            num = aObj[1]
+            street = theAdrs.substr(num.length).trim().toLowerCase()
+        }
+        return {num, street}
+    }
+    console.log("a:" + JSON.stringify(a))
+    console.log("b:" + JSON.stringify(b))
+    if (typeof b != 'object') return 1
+
+    let aStreet = parseStreetAddress(a)
+    let bStreet = parseStreetAddress(b)
+
+    // both num and street properties are still strings
+
+    if (aStreet.street < bStreet.street) return -1
+    if (aStreet.street > bStreet.street) return 1
+
+    // compare length of strings - shorter numeric strings are always less
+    if (aStreet.num.length < bStreet.num.length) return -1
+    if (aStreet.num.length > bStreet.num.length) return 1
+
+    if (aStreet.num == bStreet.num) return 0
+
+    return parseInt(aStreet.num) - parseInt(bStreet.num)
+}
