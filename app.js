@@ -31,16 +31,17 @@ d3.csv('TaxIncrease.csv').then(function (data) {
             movies.street_address.toLowerCase().trim().includes(inputValue)
         )
         // console.log(filteredData.length)
+        errMsg = ''
         if (
-            filteredData.length === 0 &&
-            inputValue !== 'Something to give no results'
+            filteredData.length === 0
+            // &&
+            // inputValue !== 'Something to give no results'
         ) {
-            d3.select('p')
-                .classed('noresults', true)
-                .html(
-                    '<center><strong>No results. Please check your spelling!</strong>'
-                )
+            errMsg =
+                '<center><strong>No addressess match. Please check your spelling!</strong></center>'
         }
+        d3.select('#errmsg').classed('noresults2', true).html(errMsg)
+
         output = filteredData.sort(StreetSort)
 
         for (var i = 0; i < filteredData.length; i++) {

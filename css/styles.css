@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-p {
+p .center{
   margin-top: 0;
   margin-bottom: 1rem;
   text-align: center
