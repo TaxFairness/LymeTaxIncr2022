@@ -41,7 +41,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
                     '<center><strong>No results. Please check your spelling!</strong>'
                 )
         }
-        output = _.sortBy(filteredData, StreetSort)
+        output = filteredData.sort(StreetSort)
 
         for (var i = 0; i < filteredData.length; i++) {
             // console.log(output[i]['original_title'])
@@ -79,26 +79,21 @@ d3.csv('TaxIncrease.csv').then(function (data) {
 })
 
 // Sort street addresses - by street name, then by optional street number
-function StreetSort(a,b) {
-
-    function parseStreetAddress(adrs){
-        let numRE = /^(\d*)/ig // match leading digits
+function StreetSort(a, b) {
+    function parseStreetAddress(adrs) {
+        let numRE = /^(\d*)/gi // match leading digits
         let theAdrs = adrs.original_title
         // console.log("theAdrs: %s",theAdrs, JSON.stringify(adrs))
-        let aObj = numRE.exec(theAdrs)	// locate leading digits
-        let num = ""
-        let street = ""
-        if (aObj == null)
-            street = theAdrs
-        else  {
+        let aObj = numRE.exec(theAdrs) // locate leading digits
+        let num = ''
+        let street = ''
+        if (aObj == null) street = theAdrs
+        else {
             num = aObj[1]
             street = theAdrs.substr(num.length).trim().toLowerCase()
         }
-        return {num, street}
+        return { num, street }
     }
-    console.log("a:" + JSON.stringify(a))
-    console.log("b:" + JSON.stringify(b))
-    if (typeof b != 'object') return 1
 
     let aStreet = parseStreetAddress(a)
     let bStreet = parseStreetAddress(b)
