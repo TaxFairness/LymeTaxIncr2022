@@ -48,13 +48,15 @@
             <br>
             <br>
             <h2 class=>How much did your Lyme property tax increase?</h2>
-            <h3 class=>Enter the name of your street to see nearby properties...</h3>
+            <p class="foo"> Enter a street name (and press Return) to see the tax paid and the percentage increase
+                (or decrease) from 2020.
+             </p>   <br>
             <form id="form">
 
               <div class="input-group input-group-newsletter">
 
-                <input class="form-control" id="user-input" placeholder="Enter your street..."
-                  aria-label="Enter your street..." aria-describedby="submit-button">
+                <input class="form-control" id="user-input" placeholder="Enter the name of your street to see nearby properties...."
+                  aria-label="Enter the name of your street to see nearby properties..." aria-describedby="submit-button">
                 <br>
                 <br>
                 <br>
@@ -65,7 +67,7 @@
               </div>
             </form>
 
-            <p class="noresults">
+            <p id="errmsg">
             </p>
             <!-- <p class="noresults2">It might take a few seconds to load the database for your first search (depending on your internet connection)
             </p> -->
@@ -74,7 +76,8 @@
               <thead>
                 <tr>
                   <th scope="col">Address</th>
-                  <th scope="col">Percent Change</th>
+                  <th scope="col">Tax in 2021</th>
+                  <th scope="col">Tax Increase/Decrease</th>
                 </tr>
               </thead>
               <tbody>

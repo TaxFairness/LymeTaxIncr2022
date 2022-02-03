@@ -12,23 +12,23 @@ d3.csv('TaxIncrease.csv').then(function (data) {
 
     function runEnter() {
         d3.select('tbody').html('')
-        d3.selectAll('p').classed('noresults', true).html('')
+        // d3.selectAll('p').classed('noresults', true).html('')
         d3.event.preventDefault()
         var inputElement = d3.select('#user-input')
         var inputValue = inputElement.property('value').toLowerCase().trim()
 
         // console.log(inputValue.length);
         // console.log(movies);
+        let errMsg = ''
         if (inputValue.length < 2) {
-            d3.select('p')
-                .classed('noresults2', true)
-                .html(
-                    '<center><strong>Please enter more characters for the street name</strong>'
-                )
+            errMsg =
+                '<i><center><strong>Please enter more characters for the street name</strong></i>'
             inputValue = 'Something to give no results'
         }
+        d3.select('#errmsg').classed('noresults2', true).html(errMsg)
+
         var filteredData = movies.filter((movies) =>
-            movies.actors.toLowerCase().trim().includes(inputValue)
+            movies.street_address.toLowerCase().trim().includes(inputValue)
         )
         // console.log(filteredData.length)
         if (
@@ -50,7 +50,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
             d3.select('tbody')
                 .insert('tr')
                 .html(
-                    `<td>${output[i]['original_title']}</td><td>${output[i]['avg_vote']}</td><td></td><td> </td>`
+                    `<td>${output[i]['street_address']}</td><td>${output[i]['tax_2021']}</td><td>${output[i]['tax_increase']}</td><td></td><td> </td>`
                 )
         }
     }
@@ -61,7 +61,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
 function StreetSort(a, b) {
     function parseStreetAddress(adrs) {
         let numRE = /^(\d*)/gi // match leading digits
-        let theAdrs = adrs.original_title
+        let theAdrs = adrs.street_address
         // console.log("theAdrs: %s",theAdrs, JSON.stringify(adrs))
         let aObj = numRE.exec(theAdrs) // locate leading digits
         let num = ''
