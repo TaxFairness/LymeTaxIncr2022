@@ -20,12 +20,15 @@ d3.csv('TaxIncrease.csv').then(function (data) {
         // console.log(inputValue.length);
         // console.log(movies);
         let errMsg = ''
+        d3.select('#errmsg').classed('noresults2', true).html(errMsg)
+
         if (inputValue.length < 2) {
             errMsg =
                 '<i><center><strong>Please enter more characters for the street name</strong></i>'
             inputValue = 'Something to give no results'
+            d3.select('#errmsg').classed('noresults2', true).html(errMsg)
+            return
         }
-        d3.select('#errmsg').classed('noresults2', true).html(errMsg)
 
         var filteredData = movies.filter((movies) =>
             movies.street_address.toLowerCase().trim().includes(inputValue)
@@ -38,7 +41,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
             // inputValue !== 'Something to give no results'
         ) {
             errMsg =
-                '<center><strong>No addressess match. Please check your spelling!</strong></center>'
+                '<center><strong>No addressess match. Please check your spelling...</strong></center>'
         }
         d3.select('#errmsg').classed('noresults2', true).html(errMsg)
 
