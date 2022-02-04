@@ -1,37 +1,37 @@
 d3.csv('TaxIncrease.csv').then(function (data) {
     // console.log(data);
 
-    var movies = data
+    var taxData = data
 
-    var button = d3.select('#button')
+    // var button = d3.select('#button')
 
     var form = d3.select('#form')
 
-    button.on('click', runEnter)
-    form.on('submit', runEnter)
+    // button.on('click', runEnter)
+    // form.on('submit', runEnter)
+    form.on('input', runEnter)
 
     function runEnter() {
         d3.select('tbody').html('')
         // d3.selectAll('p').classed('noresults', true).html('')
-        d3.event.preventDefault()
+        //d3.event.preventDefault()
         var inputElement = d3.select('#user-input')
         var inputValue = inputElement.property('value').toLowerCase().trim()
 
-        // console.log(inputValue.length);
-        // console.log(movies);
+        // console.log(taxData);
         let errMsg = ''
         d3.select('#errmsg').classed('noresults2', true).html(errMsg)
 
-        if (inputValue.length < 2) {
-            errMsg =
-                '<i><center><strong>Please enter more characters for the street name</strong></i>'
-            inputValue = 'Something to give no results'
-            d3.select('#errmsg').classed('noresults2', true).html(errMsg)
+        if (inputValue.length < 1) {
+            // errMsg =
+            //     '<i><center><strong>Please enter more characters for the street name</strong></i>'
+            // inputValue = 'Something to give no results'
+            // d3.select('#errmsg').classed('noresults2', true).html(errMsg)
             return
         }
 
-        var filteredData = movies.filter((movies) =>
-            movies.street_address.toLowerCase().trim().includes(inputValue)
+        var filteredData = taxData.filter((taxData) =>
+            taxData.street_address.toLowerCase().trim().includes(inputValue)
         )
         // console.log(filteredData.length)
         errMsg = ''
