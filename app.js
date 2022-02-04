@@ -51,7 +51,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
             d3.select('tbody')
                 .insert('tr')
                 .html(
-                    `<td>${output[i]['street_address']}</td><td>${output[i]['tax_2021']}</td><td>${output[i]['tax_increase']}</td><td></td><td> </td>`
+                    `<td>${output[i]['street_address']}</td><td>${output[i]['tax_2021']}</td><td>${output[i]['delta']}</td><td>${output[i]['tax_increase']}</td><td></td><td> </td>`
                 )
         }
     }
