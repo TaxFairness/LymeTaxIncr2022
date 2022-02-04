@@ -41,7 +41,7 @@ d3.csv('TaxIncrease.csv').then(function (data) {
             // inputValue !== 'Something to give no results'
         ) {
             errMsg =
-                '<center><strong>No addressess match. Please check your spelling...</strong></center>'
+                '<i><center><strong>No addressess match. Please check your spelling...</strong></center></i>'
         }
         d3.select('#errmsg').classed('noresults2', true).html(errMsg)
 
