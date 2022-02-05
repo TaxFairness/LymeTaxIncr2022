@@ -1,3 +1,11 @@
+function hashchanged() {
+    var hash = location.hash.replace(/^#/, '')
+
+    console.log(`hashChange: ${location.hash}`)
+}
+
+window.addEventListener('hashchange', hashchanged, false)
+
 d3.csv('TaxIncrease.csv').then(function (data) {
     // console.log(data);
 
