@@ -27,16 +27,29 @@ These properties are too numerous to value in a single year, so the Select Board
 
 If the only factor impacting the property value was inflation, then the increase in town-wide value would be shared proportionately across all properties, and the Tax Rate would drop and everyone’s taxes would remain the same. Your property is worth more, but the town charges a lower rate, so you pay the same. And if the Town needed to raise more money (increased its budget), the Tax Rate would increase, and our taxes would increase by that amount.
 
-In 2021, both happened. The town valuation went up by about 15%, and the town is spending about 4% more money. If all properties increased the same amount, you would expect your property tax to increase by about 4%.
+In 2021, both happened.
+Although town valuation went up by about 15%,
+the town is spending about 4% more money.
+If all assessments increased by the same amount,
+the average property tax bill would increase by about 4%.
 
 #### Why does this matter?
 
 In 2021 there was a troubling variation in changes to individual property’s taxes. Many properties increased much more than the average, with no clear explanation. This has the effect of shifting the property tax burden onto those properties.
 
--   It obviously matters to the individual property owner. Their taxes increased a great deal more than the average. The Town owes them an explanation for this large increase, and if they file for an abatement, they may get the tax reduced.
--   The increased appraisal carries over for the next five years, meaning that taxpayer will continue to pay a higher amount until the next revaluation.
--   We observe a pattern that modestly-priced homes saw the largest increases, while higher-value homes saw smaller increases, or even decreases. This appears to be an unfair shift of the tax burden onto the lower price homes, which arguably are least able to afford the increase.
--   In this fifth-year revaluation process, the Assessor excluded a number of recent sales from consideration. This raises questions about the accuracy of the revaluation.
+-   It obviously matters to the individual property owner.
+    When their taxes increase far more than the average,
+    the Town owes them an explanation for that increase.
+    If they file for an abatement, they may get the tax reduced.
+-   The increased appraisal carries over for the next five years,
+    meaning that taxpayer will continue to pay a higher amount until the next revaluation.
+-   We observe a pattern that modestly-priced homes saw the largest increases,
+    while higher-value homes saw smaller increases, or even decreases.
+    This appears to be an unfair shift of the tax burden onto the lower price homes,
+    arguably the least able to afford the increase.
+-   In this fifth-year revaluation process, the Assessor excluded a number
+    of recent sales from consideration.
+    This raises questions about the accuracy of the revaluation.
 
 #### What can be done?
 
