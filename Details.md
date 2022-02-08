@@ -49,5 +49,7 @@ reduce your assessment. The deadline for an abatement is March 1.
 Also, the [Elderly Tax Exemption](https://www.lymenh.gov/assessing-department/pages/elderly-tax-exemption)
 applies to property owners who are at least 65 years old and meet certain income requirements.
 
-The Select Board meets on Thursday February 10th at 9:00 am.
-Questions will be addressed about the variation in tax increases (and decreases) since they don't seem to follow any clear logic or pattern. Please feel free to attend in person or tune in via zoom.
+The Select Board plans to discuss this subject on Thursday February 10th at 9:00 am.
+Questions about the variation in tax increases (and decreases) will be addressed since
+they don't seem to follow any clear logic or pattern.
+Please feel free to attend in-person or tune in via zoom (Link coming...)

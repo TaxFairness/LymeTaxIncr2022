@@ -17,6 +17,8 @@ Here are things you can do:
     [Elderly Tax Exemption page](https://www.lymenh.gov/assessing-department/pages/elderly-tax-exemption)
     on the Town website.
 -   Talk to the Select Board - let them know that you have concerns about the process.
-    There is a meeting on Thursday 10 February to discuss this topic.
+    Their email is [selectboard@lymenh.gov](mailto:selectboard@lymenh.gov)
+-   Attend the next Select Board meeting on Thursday, February 10 at 9am to discuss this topic.
+    You can attend in-person, or via Zoom (link coming...)
 
 Back to [Tax Changes](./#taxchanges)
