@@ -16,15 +16,18 @@ d3.csv('TaxIncrease.csv').then(function (data) {
     var form = d3.select('#form')
 
     // button.on('click', runEnter)
-    // form.on('submit', runEnter)
+    form.on('submit', runEnter)
     form.on('input', runEnter)
 
     function runEnter() {
         d3.select('tbody').html('')
         // d3.selectAll('p').classed('noresults', true).html('')
-        //d3.event.preventDefault()
+        d3.event.preventDefault()
         var inputElement = d3.select('#user-input')
         var inputValue = inputElement.property('value').toLowerCase().trim()
+
+        // el = document.getElementById('user-input')
+        // console.log(`input: ${el.value}`)
 
         // console.log(taxData);
         let errMsg = ''
