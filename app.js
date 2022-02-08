@@ -26,10 +26,26 @@ d3.csv('TaxIncrease.csv').then(function (data) {
         var inputElement = d3.select('#user-input')
         var inputValue = inputElement.property('value').toLowerCase().trim()
 
-        // el = document.getElementById('user-input')
-        // console.log(`input: ${el.value}`)
+        let el = document.getElementById('user-input')
+        let rect = el.getBoundingClientRect()
+        let pos = rect.top + window.scrollY
+        // console.log(
+        //     `Position: ${pos}, rect: ${rect.top} scrollY: ${window.scrollY}`
+        // )
 
+        window.scroll({ top: 5000, left: 0, behavior: 'smooth' })
+
+        // el.scrollIntoView(true)
+
+        // el.scrollIntoView({
+        //     block: 'start',
+        //     inline: 'nearest',
+        //     behavior: 'auto',
+        // })
+
+        // console.log(`Position: ${pos}`)
         // console.log(taxData);
+
         let errMsg = ''
         d3.select('#errmsg').classed('noresults2', true).html(errMsg)
 
