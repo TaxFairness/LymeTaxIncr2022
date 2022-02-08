@@ -7,5 +7,5 @@ To run/develop:
 
 ```
 cd LymeTaxIncrease
-browser-sync start --server --files "css/*.css" "*.js*" "*.html"
+browser-sync start --server --files "css/*.css" "*.js*" "*.html" "*.md"
 ```
