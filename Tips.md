@@ -6,7 +6,7 @@ _Michael Whitman posted the following tips on the Lyme Listserv..._
 
 If your property tax increased more than 5% (the town average was 4%), consider filing for an abatement, which is a formal request to the Select Board to have your property’s assessment reviewed. To do this:
 
-1. Find the abatement form here: [lymenh.gov/sites/g/files/vyhlif4636/f/uploads/revisedabatementform.pdf](lymenh.gov/sites/g/files/vyhlif4636/f/uploads/revisedabatementform.pdf) and read the directions.
+1. Find the abatement form here: [https://www.lymenh.gov/sites/g/files/vyhlif4636/f/uploads/revisedabatementform.pdf](https://www.lymenh.gov/sites/g/files/vyhlif4636/f/uploads/revisedabatementform.pdf) and read the directions.
 
 2. Section A: Name and address of property owner, and Section B: Someone representing the owner.
 
@@ -24,4 +24,4 @@ After you sign and file your abatement request (you MUST file by March 1, 2022),
 
 The assessor will then make a recommendation to the Select Board of an updated assessment, which might result in a decreased tax bill (and a rebate).
 
-Questions? Email any question to [selectboard@lymenh.gov](mailto:selectboard@lymenh.gov)
+Questions? Email any question to [selectboard@lymenh.gov](mailto:selectboard@lymenh.gov?Subject=Question%20About%20Abatement)
