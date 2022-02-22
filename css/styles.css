@@ -56,10 +56,15 @@ text-align: center;
 
 } */
 
-@media only screen and
+/*@media only screen and
 (min-device-width : screen px) and
 (max-device-width : screen px) {
     #id{style}
+}
+*/
+
+@page {
+  size: letter landscape;
 }
 
 *,

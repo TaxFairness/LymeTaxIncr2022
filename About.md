@@ -20,6 +20,10 @@ These tips may help filling out **Sections D, E, and F.**
     on the Town website.
 -   Talk to the Select Board - let them know that you have concerns about the process.
     Their email is [selectboard@lymenh.gov](mailto:selectboard@lymenh.gov)
+- The Select Board received a presentation on seemingly unfair tax increases on 10 February 2022. Here are three of the pages we showed:
+   - Tax increases: [85 Dartmouth College Highway](Tax_Increases_85_Dartmouth_College_Highway.pdf)
+   - Tax increases: [Breck Hill Road](Tax_Increases_Breck_Hill_Road.pdf)
+   - Tax increases: [Wilmott Way](Tax_Increases_Wilmott_Way.pdf)
 -   Attend the next Select Board meeting on Thursday, February 10 at 9am to discuss this topic.
     You can attend in-person, or via Zoom (link coming...)
 

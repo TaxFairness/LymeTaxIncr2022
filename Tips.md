@@ -8,7 +8,8 @@ This is a formal request to the Select Board to have your property’s assessmen
 Find the abatement form here: [https://www.lymenh.gov/sites/g/files/vyhlif4636/f/uploads/revisedabatementform.pdf](https://www.lymenh.gov/sites/g/files/vyhlif4636/f/uploads/revisedabatementform.pdf)
 
 _Rich Brown posted the following tips on the Lyme Listserv.
-Feel free to use (or copy/paste) the information below into your Abatement application._
+Feel free to use (or copy/paste) the information below into your Abatement application.
+(Be sure to adjust Section E for your property.)_
 
 **Application for Abatement**
 
