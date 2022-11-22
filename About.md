@@ -16,19 +16,21 @@ Thank you for your time and attention. We hope that you will support our efforts
 
 ## Further Reading
 
-[The Warrant Article](./#the-warrant-article)<br />
-[Rationale:  Why do we need a new Full Revaluation?](./#rationale--why-do-we-need-a-new-full-revaluation)<br />
-[Why does this matter?](./#why-does-this-matter) <br />
-[What went wrong with the 2021 Revaluation?](/#what-went-wrong-with-the-2021-revaluation)<br />
-[What’s the remedy?](./#whats-the-remedy)<br />
-[What will this cost?](./#what-will-this-cost)<br />
-[Is this Warrant Article binding?](./#is-this-warrant-article-binding)<br />
-[Who are we?](./#who-are-we)<br />
-[New Hampshire legislation (RSAs) governing property assessments and taxes](./#new-hampshire-legislation)<br />
+* [The Warrant Article](./#the-warrant-article)
+* [Rationale:  Why do we need a new Full Revaluation?](./#rationale--why-do-we-need-a-new-full-revaluation)
+* [Why does this matter?](./#why-does-this-matter) 
+* [What went wrong with the 2021 Revaluation?](/#what-went-wrong-with-the-2021-revaluation)
+* [What’s the remedy?](./#whats-the-remedy)
+* [What will this cost?](./#what-will-this-cost)
+* [Is this Warrant Article binding?](./#is-this-warrant-article-binding)
+* [Who are we?](./#who-are-we)
+* [New Hampshire legislation (RSAs) governing property assessments and taxes](./#new-hampshire-legislation)
 
 ### The Warrant Article
 
-Article ###: To see if the Town shall require the Select Board to perform a Full Revaluation for the tax year 2024, to update appraised property values to more accurately reflect current market (ad Valorem) values, and to establish a new base year pursuant to RSA 75:1 Rev 601.02
+This is the text of the article we wish to place by petition on the Warrant for Town Meeting in 2023.
+
+> Article ###: To see if the Town shall require the Select Board to perform a Full Revaluation for the tax year 2024, to update appraised property values to more accurately reflect current market (ad Valorem) values, and to establish a new base year pursuant to RSA 75:1 Rev 601.02
 A FULL REVALUATION means the revaluation of all taxable and non-taxable properties in a municipality, with a complete measure and listing of all taxable and nontaxable properties to occur at the same time of the establishment of the new base year, to arrive at full and true value as of April 1.
 
 ### Rationale:  Why do we need a new Full Revaluation?
