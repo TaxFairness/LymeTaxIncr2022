@@ -11,7 +11,7 @@
   <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes" /> -->
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <title>How much did your property tax increase?</title>
+  <title>Restoring Tax Fairness in Lyme</title>
 
   <!-- Font Awesome icons (free version)-->
   <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
@@ -50,16 +50,17 @@
     <div class="container h-100 align-items-center">
         <br />
         <ul class="nav nav-tabs">
+            <li class="nav-item">
+            <a href="#about" class="nav-link active" data-toggle="tab"
+              ><b>About the Petition</i></b></a
+            >
+          </li>
           <li class="nav-item">
-            <a href="#taxchanges" class="nav-link active" data-toggle="tab"
+            <a href="#taxchanges" class="nav-link" data-toggle="tab"
               ><b>Tax Changes</b></a
             >
           </li>
-           <li class="nav-item">
-            <a href="#about" class="nav-link" data-toggle="tab"
-              ><b>What can I do?</i></b></a
-            >
-          </li>
+         
          <li class="nav-item">
             <a href="#details" class="nav-link" data-toggle="tab"
               ><b>The Details</b></a
@@ -74,7 +75,15 @@
         </ul>
 
         <div class="tab-content">
-           <div class="tab-pane fade col-md-12 show active" id="taxchanges">
+          <div class="tab-pane fade show active" id="about">
+            <zero-md src="./About.md"> 
+                <template>
+                    <style>a {color: #64a19d}</style>
+                </template>
+            </zero-md>
+          </div>
+
+           <div class="tab-pane fade col-md-12 " id="taxchanges">
         
             <h2 class=>How much did your property tax increase?</h2>
             <p > Lyme will spend about 4% more this year. 
@@ -115,14 +124,7 @@
               <tbody></tbody>
           </table>
           </div>
-        <div class="tab-pane fade" id="about">
-            <zero-md src="./About.md"> 
-                <template>
-                    <style>a {color: #64a19d}</style>
-                </template>
-            </zero-md>
-          </div>
-
+        
        <div class="tab-pane fade" id="details">
             <zero-md src="./Details.md"> 
                 <template>

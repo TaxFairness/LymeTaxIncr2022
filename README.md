@@ -9,3 +9,10 @@ To run/develop:
 cd LymeTaxIncrease
 browser-sync start --server --files "css/*.css" "*.js*" "*.html" "*.md"
 ```
+
+## Hints
+
+* To re-order tabs:
+   - Change order of the children of `<ul class="nav nav-tabs`
+   - Add `active` to the `a` link's class
+   - Add `show active` to the proper child of the `tab-content` div
