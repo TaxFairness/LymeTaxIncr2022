@@ -4,37 +4,30 @@ During Lyme’s last full revaluation in 2021, several serious errors skewed the
 
 This chart shows the Sale Price (blue dots) vs. the Appraised Value (orange dots) for 42 recent sales over the last 15 months. The Appraised Value should reflect the actual “market price” since it is a major factor in a parcel’s property tax bill.
 
-<img src="./images/Sales-vs-Appraisal-2021-to-present.png" width="600">
-<!-- ![image](https://user-images.githubusercontent.com/99080719/213536988-62d54896-dfbe-415c-8287-a8f9c565b2a3.png) -->
+<img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto" src="./images/Sales-vs-Appraisal-2021-to-present.png" >
 
 However there is a major disparity between the actual Sale Price and the Appraised Value for higher-value properties. Many expensive homes are under-appraised by several hundred thousand dollars, giving a significant savings on the property tax bill.
 Since those properties’ taxes are lower, the remaining properties in town must make up the difference with higher taxes to balance the Town’s budget.
 
-The remedy is to perform a full revaluation – to “revalue” all the properties in Lyme, ensuring that homes in all price ranges carry their fair share of the property tax burden. That’s the reason we have created the petition to place this question on the Warrant for Town Meeting in March 2023.
+The remedy is to perform a full revaluation – to “revalue” all the properties in Lyme, ensuring that homes in all price ranges carry their fair share of the property tax burden. That’s the reason we have created the petition below to place this question on the Warrant for Town Meeting in March 2023.
 
 ## The Warrant Article
 
 > **Article ###:** To see if the Town shall require the Select Board to perform a “Full Revaluation” for the tax year 2024 to update appraised property values to more accurately reflect current market (ad Valorem) values and establish a new base year pursuant to RSA 75:1 Rev 601.02; and further to withdraw the sum of sixty six thousand dollars ($66,000.00) from the Property Reappraisal Capital Reserve Fund; and further to raise and appropriate the sum of thirty thousand dollars ($30,000.00) for the revaluation.
 
-## Further Reading
+<!-- ## Further Reading -->
 
--   [The Warrant Article](./#the-warrant-article)
--   [Rationale: Why do we need a new Full Revaluation?](./#rationale--why-do-we-need-a-new-full-revaluation)
--   [Why does this matter?](./#why-does-this-matter)
--   [What went wrong with the 2021 Revaluation?](/#what-went-wrong-with-the-2021-revaluation)
--   [What’s the remedy?](./#whats-the-remedy)
--   [What will this cost?](./#what-will-this-cost)
--   [Is this Warrant Article binding?](./#is-this-warrant-article-binding)
--   [Who are we?](./#who-are-we)
--   [New Hampshire legislation (RSAs) governing property assessments and taxes](./#new-hampshire-legislation)
+<!-- -   [The Warrant Article](./#the-warrant-article) -->
+<!-- -   [Why does this matter?](./#why-does-this-matter) -->
+<!-- -   [What will this cost?](./#what-will-this-cost) -->
+<!-- -   [Is this Warrant Article binding?](./#is-this-warrant-article-binding) -->
+<!-- -   [Rationale: Why do we need a new Full Revaluation?](./#rationale--why-do-we-need-a-new-full-revaluation) -->
+<!-- -   [What went wrong with the 2021 Revaluation?](/#what-went-wrong-with-the-2021-revaluation) -->
+<!-- -   [What’s the remedy?](./#whats-the-remedy) -->
+<!-- -   [Who are we?](./#who-are-we) -->
+<!-- -   [New Hampshire legislation (RSAs) governing property assessments and taxes](./#new-hampshire-legislation) -->
 
-### The Warrant Article
-
-This is the text of the article we wish to place by petition on the Warrant for Town Meeting in 2023.
-
-> Article ###: To see if the Town shall require the Select Board to perform a Full Revaluation for the tax year 2024, to update appraised property values to more accurately reflect current market (ad Valorem) values, and to establish a new base year pursuant to RSA 75:1 Rev 601.02
-> A FULL REVALUATION means the revaluation of all taxable and non-taxable properties in a municipality, with a complete measure and listing of all taxable and nontaxable properties to occur at the same time of the establishment of the new base year, to arrive at full and true value as of April 1.
-
+<!--
 ### Rationale: Why do we need a new Full Revaluation?
 
 In 2021, after the most recent Full Revaluation, the average tax increase in Lyme was 4%. Yet there was an explicable and huge variation in increases in actual bills, for some up over 30%, while others went down 10–20%. (I’m winging it here — is this a fair and accurate representation?). If you had renovated, expanded, or improved your property, that could explain your tax increase. But if your place has not been improved over the past few years, there is no reason for an increase greater than 4%. If your tax increase (or decrease!) was not about 4%, this is the result of the 2021 assessment process.
@@ -61,13 +54,15 @@ The revenues lost from these appraisals caused vast shifts in our property tax b
 To see how much the tax on your property and that of your neighbors changed, check this link. You will only need to enter the street name to get the information about each property.
 
 Ultimately, our concern is fairness. If all properties are appraised at the same relative value to market, the property tax burden would have been be shared equitably by all taxpayers. In Lyme, the impact of the undervaluation of expensive properties, as shown by market data in the chart above, resulted in a huge shift of the property tax burden to the lower-valued properties.
+-->
 
 ### Why does this matter?
 
-New Hampshire requires Town to complete a Full Revaluation every five years. So, if we do nothing, our tax bills will be based on the inequitable 2021appraisal until 2026. This will result in systematic unfairness within our town.
+If we do nothing, our tax bills will be based on the inequitable 2021 appraisal until 2026. This will result in systematic unfairness within our town.
 
 The failure to achieve the stated goal of market-value appraisals has shifted the tax burden to owners of lower-valued properties, and arguably to residents least able to afford the increase. Neighbors in this situation may be forced to sell and move away.
 
+<!--
 ### What went wrong with the 2021 Revaluation?
 
 I really need help with this section… it’s way too deep into the nitty-gritty for me to explain.
@@ -81,23 +76,27 @@ And somehow the Town’s report to the State indicates that the amount of land i
 The 2021 Revaluation was not completed in a timely manner. The final results were delayed, and presented to the Select Board when they were already past the State’s required deadline. So there was not time for the Select Board to complete an adequate review prior to the State’s setting of our tax rate and issuing our tax bills.
 
 Lastly, there were huge variations in land value assessments within neighborhoods. It is hard to see why abutting land should have vastly different values. For five properties on one short road in town, land values varied as follows: \$40,342 per acre, \$28,171 per acre, \$364,118 per acre, \$26,892 per acre, and \$147,684 per acre. An additional property on this road has a considerable parcel in current use, and was was valued at \$1,177 per acre. There has been no explanation for this vast variation.
-
+-->
+<!--
 ### What’s the remedy?
 
 The Select Board has been made aware this problem, and of the systematic inequity in the total Revaluation, but they have not taken steps to remediate it. Therefore the current inequitable tax burden will continue for five years, until the next required Revaluation in 2026.
 
 To remedy this, we are bringing the Article before Town Meeting in March, 2023. It will require the Select Board to perform a town-wide Revaluation in order to update appraised property values to more accurately reflect current market values for all properties, and to establish a new base year. This would involve a review of current sales, and an adjustment to all property valuations.
 
+-->
+
 ### What will this cost?
 
-A full Revaluation costs about \$75,000. The Town maintains a fund for this, and contributes about \$15,000 to it every year. Today, that fund has \$46,000. In 2023, that fund will increase to about \$60,000. If we vote for a full Revaluation in 2024, it will only cost an additional $15,000.
+A full Revaluation costs about \$95,000. The Town maintains a fund for this, and contributes about \$10,000 to it every year. Today, that fund has \$56,000. In 2023, that fund will increase to about \$66,000. If we vote for a full Revaluation in 2024, it will only cost an additional $30,000.
 
-If we complete the proposed Revaluation in 2024, we will have five years to accumulate funds before we need to complete the next required Revaluation in 2029.
+When we complete the proposed Revaluation in 2024, we will have five years to accumulate funds before we need to complete the next required Revaluation in 2029.
 
 ### Is this Warrant Article binding?
 
-We have been told by the legal department of the New Hampshire Municipal Association that a successful petition would be a binding resolution. The Select Board would be required to complete the Full Revaluation as called for by the article.
+We have been told by the legal department of the New Hampshire Municipal Association and the Select Board that a petition article that has money attached to it would be binding on the town. The Select Board would be required to complete the Full Revaluation as called for by the article.
 
+<!--
 ### Who are we?
 
 We are a small ad hoc group of Lyme residents who have spent the last year carefully examining the 2021 Revaluation process and outcome.
@@ -169,3 +168,5 @@ VI. The board shall annually determine, vote upon, and recommend to the departme
 Source. 2001, 297:2. 2003, 307:8. 2004, 203:3, 4. 2006, 193:2. 2008, 390:8. 2009, 228:1, 2. 2010, 257:1, 3, eff. July 6, 2010. 2012, 30:1, 2, eff. April 1, 2013. 2013, 20:2, eff. July 15, 2013. 2014, 232:1, 2, eff. Sept. 19, 2014. 2017, 132:1, eff. Aug. 15, 2017.
 
 "Assessment" means an estimate of the quality, amount, size, features, or worth of real estate which is used as a basis for a municipalities' valuation in accordance with statutory requirements including, but not limited to those pursuant to RSA 75:1.
+
+-->
