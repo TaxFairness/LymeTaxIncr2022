@@ -2,14 +2,20 @@
 
 During Lyme’s last full revaluation in 2021, several serious errors skewed the property valuations. This shifted much of the burden of taxes from Lyme’s more expensive homes onto its modest priced homes. The following year (2022) we saw the same inequitable pattern, and the effects will continue until the Town completes a new full revaluation.
 
-This chart shows the Sale Price (blue dots) vs. the Appraised Value (orange dots) for 42 recent sales over the last 15 months. The Appraised Value should reflect the actual “market price” since it is a major factor in a parcel’s property tax bill.
+This chart shows the Sale Price (blue dots) vs. the Appraised Value (orange dots above or below the blue dot) for 42 recent sales over the last 15 months. The Appraised Value should reflect the actual “market price”. (The goal of a revaluation would be to bring all the orange dots so they are within 10% - above or below - the blue actual sale price.)
 
 <img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto" src="./images/Sales-vs-Appraisal-2021-to-present.png" >
 
-However there is a major disparity between the actual Sale Price and the Appraised Value for higher-value properties. Many expensive homes are under-appraised by several hundred thousand dollars, giving a significant savings on the property tax bill.
-Since those properties’ taxes are lower, the remaining properties in town must make up the difference with higher taxes to balance the Town’s budget.
+Instead, the revaluation of 2021 gave appraised values (orange) that are significantly _below_ the blue dots (actual sale price).
+This is especially true for higher-value properties:
+many appraised values are hundreds of thousands of dollars below the sale price.
+(A difference of $100,000 gives a savings of about $2,400 per year in Lyme.)
 
-The remedy is to perform a full revaluation – to “revalue” all the properties in Lyme, ensuring that homes in all price ranges carry their fair share of the property tax burden. That’s the reason we have created the petition below to place this question on the Warrant for Town Meeting in March 2023.
+Since Appraised Value is a major factor in a parcel’s property tax bill, those properties are under-appraised, giving a significant property tax savings.
+Because those properties pay lower taxes, the tax burden shifts to the remaining properties
+in town to balance the Town’s budget.
+
+The remedy is to perform a full revaluation – to “revalue” all the properties in Lyme, ensuring that homes in all price ranges carry their fair share of the property tax burden. That’s the reason we created the Warrant Article below for Town Meeting in March 2023.
 
 ## The Warrant Article
 
@@ -58,7 +64,7 @@ Ultimately, our concern is fairness. If all properties are appraised at the same
 
 ### Why does this matter?
 
-If we do nothing, our tax bills will be based on the inequitable 2021 appraisal until 2026. This will result in systematic unfairness within our town.
+If we do nothing, our tax bills will be based on the inequitable 2021 appraisal until 2026. This will prolong the systematic unfairness within our town.
 
 The failure to achieve the stated goal of market-value appraisals has shifted the tax burden to owners of lower-valued properties, and arguably to residents least able to afford the increase. Neighbors in this situation may be forced to sell and move away.
 
@@ -90,7 +96,7 @@ To remedy this, we are bringing the Article before Town Meeting in March, 2023. 
 
 A full Revaluation costs about \$95,000. The Town maintains a fund for this, and contributes about \$10,000 to it every year. Today, that fund has \$56,000. In 2023, that fund will increase to about \$66,000. If we vote for a full Revaluation in 2024, it will only cost an additional $30,000.
 
-When we complete the proposed Revaluation in 2024, we will have five years to accumulate funds before we need to complete the next required Revaluation in 2029.
+When we complete the proposed Revaluation in 2024, we will have another five years to accumulate funds before we need to complete the next required Revaluation in 2029.
 
 ### Is this Warrant Article binding?
 
