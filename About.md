@@ -1,18 +1,21 @@
 <br />
 
-# Restoring Tax Fairness in Lyme
+# Why Does Lyme need a Full Revaluation?
 
-_**NOTE: THIS IS THE ONLY PAGE I HAVE CHANGED. -Rich**_
+During Lyme’s last full revaluation in 2021, several serious errors skewed the property valuations. This shifted much of the burden of taxes from Lyme’s more expensive homes onto its modest priced homes. The following year (2022) we saw the same inequitable pattern, and the effects will continue until the Town completes a new full revaluation. 
 
-Fellow residents of Lyme,
+This chart shows the Sale Price (blue dots) vs. the Appraised Value (orange dots) for 42 recent sales over the last 15 months. The Appraised Value should reflect the actual “market price” since it is a major factor in a parcel’s property tax bill.
 
-We have inequitable taxes in Lyme. Let’s fix this at our 2023 Town Meeting. 
+![image](https://user-images.githubusercontent.com/99080719/213536988-62d54896-dfbe-415c-8287-a8f9c565b2a3.png)
 
-An ad hoc group of Lyme citizens has put forward a Warrant Article for our upcoming March, 2023, Town Meeting. After spending the past year studying our most recent town-wide Full Revaluation, we have determined that it has resulted in a highly inequitable outcome that effects us all now and into the future.
+However there is a major disparity between the actual Sale Price and the Appraised Value for higher-value properties. Many expensive homes are under-appraised by several hundred thousand dollars, giving a significant savings on the property tax bill.
+Since those properties’ taxes are lower, the remaining properties in town must make up the difference with higher taxes to balance the Town’s budget.
 
-This website explains what we have learned from our research, shares some of the data that we have compiled from public records, and reviews the applicable NH legislation that governs our tax system.  
+The remedy is to perform a full revaluation – to “revalue” all the properties in Lyme, ensuring that homes in all price ranges carry their fair share of the property tax burden. That’s the reason we have created the petition to place this question on the Warrant for Town Meeting in March 2023.
 
-Thank you for your time and attention. We hope that you will support our efforts!
+## The Warrant Article
+
+> **Article ###:** To see if the Town shall require the Select Board to perform a “Full Revaluation” for the tax year 2024 to update appraised property values to more accurately reflect current market (ad Valorem) values and establish a new base year pursuant to RSA 75:1 Rev 601.02; and further to withdraw the sum of sixty six thousand dollars ($66,000.00) from the Property Reappraisal Capital Reserve Fund; and further to raise and appropriate the sum of thirty thousand dollars ($30,000.00) for the revaluation.
 
 ## Further Reading
 
