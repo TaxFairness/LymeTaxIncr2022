@@ -6,7 +6,7 @@ This chart shows the Sale Price (blue dots) vs. the Appraised Value (orange dots
 
 <img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto" src="./images/Sales-vs-Appraisal-2021-to-present.png" >
 
-Instead, the revaluation of 2021 yieled appraised values (orange) that are significantly _below_ the blue dots (actual sale price).
+Instead, the revaluation of 2021 yielded appraised values (orange) that are significantly _below_ the blue dots (actual sale price).
 This is especially true for higher-value properties:
 many appraised values are hundreds of thousands of dollars below the sale price.
 (A difference of $100,000 gives a savings of about $2,400 per year in Lyme.)
