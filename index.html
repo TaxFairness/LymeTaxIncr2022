@@ -55,13 +55,13 @@
               ><b>About the Warrant Article</i></b></a
             >
           </li>
-          <!--
+          
           <li class="nav-item">
-            <a href="#taxchanges" class="nav-link" data-toggle="tab"
-              ><b>Tax Changes</b></a
+            <a href="#draforum" class="nav-link" data-toggle="tab"
+              ><b>DRA Forum</b></a
             >
           </li>
-        -->
+       
          <!--
          <li class="nav-item">
             <a href="#details" class="nav-link" data-toggle="tab"
@@ -88,48 +88,15 @@
             </zero-md>
           </div>
 
-           <div class="tab-pane fade col-md-12 " id="taxchanges">
-        
-            <h2 class=>How much did your property tax increase?</h2>
-            <p > Lyme will spend about 4% more this year. 
-                If assessments had been unchanged
-                (or if your assessment stayed the same relative to everyone else), 
-                you would have expected to see a 4% tax increase.
-             </p>
-            <p > To see how you fared, enter your street name 
-                to see the tax paid and the amount and percentage increase
-                (or decrease) from 2020.
-                For more information, see <a href="#about">What can I do?</a> above.</p>
-               <br>
-            <form id="form">
-
-              <div class="input-group input-group-newsletter">
-
-                
-                <input class="form-control" id="user-input" placeholder="Enter your street - for example, Market or Union - to see nearby properties..."
-                  aria-label="Enter your street - for example, Market or Union - to see nearby properties..." aria-describedby="submit-button">
-                
-                <!-- <div class="boton input-group-append" id="boton">
-                  <button class="boton btn btn-secondary" type="button" id="button">Find Movies!</button>
-                </div> -->
-              </div>
-            </form>
-
-            <p id="errmsg"></p>
-
-            <table class="table" cellpadding="10">
-              <thead>
-                <tr>
-                  <th scope="col">Address</th>
-                  <th scope="col">Tax in 2021</th>
-                  <th scope="col">Increase/Decrease</th>
-                  <th scope="col">Percent</th>
-                </tr>
-              </thead>
-              <tbody></tbody>
-          </table>
+           <div class="tab-pane fade col-md-12 " id="draforum">
+            <zero-md src="./draforum.md"> 
+                <template>
+                    <style>a {color: #64a19d}</style>
+                </template>
+            </zero-md>
+            
           </div>
-        
+        <!-- 
        <div class="tab-pane fade" id="details">
             <zero-md src="./Details.md"> 
                 <template>
@@ -137,7 +104,7 @@
                 </template>
             </zero-md>
           </div>
-
+        -->
 
 <!--
        <div class="tab-pane fade" id="tips">
@@ -151,7 +118,8 @@
     
 
 
-    </div>
+    
+      </div>
 
    <script src="app.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/underscore@1.12.0/underscore-min.js"></script>
