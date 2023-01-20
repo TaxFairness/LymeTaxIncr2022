@@ -6,7 +6,7 @@ This chart shows the Sale Price (blue dots) vs. the Appraised Value (orange dots
 
 <img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto" src="./images/Sales-vs-Appraisal-2021-to-present.png" >
 
-Instead, the revaluation of 2021 gave appraised values (orange) that are significantly _below_ the blue dots (actual sale price).
+Instead, the revaluation of 2021 yieled appraised values (orange) that are significantly _below_ the blue dots (actual sale price).
 This is especially true for higher-value properties:
 many appraised values are hundreds of thousands of dollars below the sale price.
 (A difference of $100,000 gives a savings of about $2,400 per year in Lyme.)
@@ -102,10 +102,11 @@ When we complete the proposed Revaluation in 2024, we will have another five yea
 
 We have been told by the legal department of the New Hampshire Municipal Association and the Select Board that a petition article that has money attached to it would be binding on the town. The Select Board would be required to complete the Full Revaluation as called for by the article.
 
+<!--
 ### Didn't I see an earlier version...?
 
 Yes. Our original article did not mention the cost of the revaluation: we had planned to ask to allocate the money from the floor at Town Meeting. We have been informed that an article without a money request would be treated as solely advisory. Consequently, we revised the article to include the cost, and will be asking those who already signed the petition to sign the new one.
-
+-->
 <!--
 ### Who are we?
 
