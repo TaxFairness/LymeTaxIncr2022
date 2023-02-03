@@ -1,8 +1,8 @@
 # Why Does Lyme need a Revaluation?
 
-Lyme's property tax burden has not been equitably shared for the last two years.  Higher value properties are taxed at far less than their true value. This transfers tax burden to lower value properties that are taxed much closer to their true value. This tax burden shift began with the 2021 revaluation and will continue until the next revaluation.
+Lyme's property tax burden has not been equitably shared for the last two years.  High value properties are taxed at far less than their true value. This transfers tax burden to lower-value properties, which are taxed much closer to their true value. This tax burden shift began with the 2021 revaluation and will continue until the next revaluation.
 
-In 2021, the overall Town value increased 15% but the increase was not the same across all properties. Some values increased by over 25% while others actually decreased in value. On average, properties valued under \$500,000 increased significantly while higher value properties saw moderate to no increase in value.
+In 2021, the overall Town value increased 15%, but the increase was not the same across all properties. Some values increased by over 25% while others actually decreased in value. On average, properties valued under \$500,000 increased significantly while higher value properties saw moderate to no increase in value.
 
 More recently &mdash; in the last 15 months &mdash; properties selling for more than \$500,000 have sold on average for 40% more than their town-appraised value while properties selling for less than \$500,000 on average sold for 15% more than their town appraised value, continuing the inequity of 2021. The following chart shows those recent sales.
 
@@ -26,7 +26,7 @@ Article ###: To see if the Town shall require the Select Board to perform a “F
 
 ## What will this cost?
 
-A Full Statistical Revaluation would cost about \$55,000. The Town maintains a reserve fund for reappraisals that currently has \$56,000. The Town contributes about \$10,000 to that fund every year, so there is money to pay for the reappraisal. 
+A Full Statistical Revaluation would cost about \$55,000. The Town maintains a reserve fund for reappraisals that currently has \$56,000. The Town contributes about \$10,000 to that fund every year, so there is money to pay for the effort. 
 
 ## Is this Warrant Article binding?
 
