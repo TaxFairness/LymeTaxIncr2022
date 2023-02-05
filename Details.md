@@ -64,7 +64,7 @@ they then check the Town's arithmetic. But that's not the problem.)
 
 Bad data in gives bad data out.
 The CAMA model was not well calibrated with its 2021 data.
-Its predictions in 2022 continue to predict significantly low appraised values of high-value homes.
+Its predictions in 2022 continue to predict significantly low appraised values of more expensive homes.
 This will continue until the CAMA model is recalibrated by a revaluation of some sort.
 
 - A statistical revaluation assumes the underlying (physical) property data is correct.
