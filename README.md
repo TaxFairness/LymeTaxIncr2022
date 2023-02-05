@@ -7,7 +7,7 @@ Code scarfed from [https://jurgenarias.github.io/movies/](https://jurgenarias.gi
 To run/develop:
 
 ```bash
-cd LymeTaxIncrease
+cd Taxes2023
 browser-sync start --server --files "css/*.css" "*.js*" "*.html" "*.md"
 ```
 
