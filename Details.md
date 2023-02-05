@@ -9,15 +9,14 @@ the parameters of the CAMA (Computer Assisted Mass Appraisal) model for properti
 The model has weighting factors that consider the number of
 bedrooms, bathrooms, size of lot, neighborhood, construction quality
 and a whole passel of other considerations.
-The output of the model &mdash; based on the characteristics
-about a property &mdash; is its Appraised Value.
-That is, the Appraised Value is the CAMA model's prediction of "market price"
+From those, the model computes an Appraised Value &mdash;
+a prediction of "market price"
 if the property were placed on the open market.
 
-In a five-year revaluation, the Assessor (a contractor hired by Lyme)
-reviews all "qualified" sales within a 12 month period and uses
-those sales to adjust the weighting factors of the CAMA model.
-When the factors are correct, the CAMA should produce an appraised value
+Each _revaluation_ is an opportunity to
+review all "qualified" sales within a 12 month period and
+adjust the weighting factors of the CAMA model.
+When the factors have been corrected, the CAMA should produce an appraised value
 that's within 10% +/- of the actual sales price for every one of the qualified sales.
 At that point, the Town can use the CAMA model to produce new appraised values
 for every home in town &mdash; as happened in 2021.
