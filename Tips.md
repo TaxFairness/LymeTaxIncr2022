@@ -22,14 +22,17 @@ Feel free to use (or copy/paste) the information below into your Abatement appli
 **Section E: Reason for Abatement Application**
 
 _List reasons that you believe your assessment was incorrect.
-You can refer to Town's "Old vs. New" document that shows the 2021 and 2022 assessed values for every property in town.
-View as the "Old vs. New" as **[PDF](./images/2022_Lyme_OldToNew.pdf)** or as 
+You can refer to the Town's "Old vs. New" document that shows the
+2021 and 2022 assessed values for every property in town.
+View the "Old vs. New" as a
+**[PDF](./images/2022_Lyme_OldToNew.pdf)** or as an
 **[Excel Spreadsheet](./images/2022_OldToNew-JToland-11Oct2022.xlsx)**_
 
 **Section F: Taxpayer's opinion of Market Value**
 
-_The town places importance on your sense of what
-your property is worth. You should put a number here._
+_The town places importance on **your** sense of what
+your property is worth.
+You should put a number here, and list your reasons._
 
 **Sections H and I:** _Signatures and certifications…_
 
