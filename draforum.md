@@ -45,3 +45,5 @@ Because the assessor and the Select Board have only been willing to answer Lyme 
 More info on this issue will be posted here on the LymeList, and open-ended discussions will be allowed at Little Town Meeting March 7, and our March 14 Town Meeting, or the public may offer comments, but not ask questions, at the Select Board’s meetings on Feb. 9 and 23.
 
 Thanks for reading —
+
+_Updated: 4 February 2023_

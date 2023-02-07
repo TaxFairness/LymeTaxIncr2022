@@ -3,7 +3,7 @@
 > Update - 4 Feb 2023: The petition article was submitted with sufficient signatures to be placed on the Warrant. It will be discussed and voted on at March Town Meeting.
 
 Lyme's property tax burden has not been equitably shared for the last two years.
-High-value properties are taxed at far less than their true value.
+High-value properties are taxed at much less than their true value.
 This transfers a portion of the tax burden to lower-value properties.
 This tax burden shift began with the 2021 revaluation and will
 continue until the next revaluation.
@@ -11,17 +11,22 @@ continue until the next revaluation.
 In 2021, the overall Town value increased 15%, but the increase
 was not the same across all properties.
 Some values increased by over 25% while others actually decreased in value.
-On average, properties valued under \$500,000 increased significantly
-while higher value properties saw moderate to no increase in value.
+
+As a result of the 2021 revaluation, appraised values of properties
+valued under \$500K increased by 17% while higher-valued properties only increased by 10%.
+With those changes in appraised values, taxes on the lower-value properties increased 8.9%,
+but the tax on higher-valued properties increased only 4.4%.
 
 More recently &mdash; in the last 15 months &mdash; properties selling
 for more than \$500,000 have sold on average for 40% more than
 their town-appraised value while properties selling for less than \$500,000
-on average sold for 15% more than their town-appraised value,
-continuing the inequity of 2021.
-The following chart shows those recent sales.
+on average sold for 15% more than their town-appraised value.
 
-<img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto" src="./images/Appraised-vs-Sales Price-v5.png" >
+The following chart of those 44 recent sales shows how the inequity
+continues from the 2021 revaluation into this year.
+
+<img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto"
+src="./images/Appraised-vs-Sales Price-v6.png" >
 
 ## Why is this important?
 
@@ -65,7 +70,7 @@ The "appraised value" of a property is used for determining its tax bill.
 It is set by the Town's property value calculator,
 which attempts to predict the market price of the property.
 When a property sells, its sale price indicates the _actual_ market value.
-After a revaluation, the two values (recent sales price and appraised value)
+After a revaluation, the two values (recent sales price and calculated appraised value)
 should be within 10% &mdash; between 90% and 110% &mdash;
 according to professional appraisal standards.
 
@@ -82,10 +87,13 @@ But... it becomes unfair when sales price and appraised value
 differ across the range of prices.
 As we see in the chart, Lyme's lower-price properties are appraised
 closer to their sale price than more expensive properties.
-That is, those higher-price properties are getting a larger discount on their taxes.
+That is, those higher-price properties pay a lower effective tax rate
+(the tax bill divided by the sale price) as indicated in the chart above.
 
 Most importantly, this affects every property in town,
 even those that have not sold recently.
 Because the same factors are used to calculate the appraised value
 (the expected market price),
-expensive properties bear a smaller share of the tax burden.
+less-expensive properties bear a larger share of the tax burden.
+
+_Updated: 7 February 2023_

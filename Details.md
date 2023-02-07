@@ -21,44 +21,45 @@ that's within 10% +/- of the actual sales price for every one of the qualified s
 At that point, the Town can use the CAMA model to produce new appraised values
 for every home in town &mdash; as happened in 2021.
 
-## What could go wrong with a revaluation?
+## What went wrong in 2021?
 
 Here are some of the things we've observed:
 
 - Small sample size.
-There were about 110 sales in the 2021 revaluation period.
-About half were excluded.
-With such a small sample size, an outlier in the input data can produce incorrect results.
- 
+  There were about 140 sales in the 2021 revaluation period.
+  Over half were excluded.
+  With such a small sample size, an outlier in the input data can produce incorrect results.
+
 - Some exclusions are proper &mdash;
-a transfer from a couple to their estate doesn't provide any valid price information;
-a family sale or foreclosure (a four-bedroom house for $50,000) is not arms-length;
-sales that do not go through MLS (and thus aren't exposed to the market)
-can't tell anything about the "true market price".
+  a transfer from a couple to their estate doesn't provide any valid price information;
+  a family sale or foreclosure (a four-bedroom house for $50,000) is not arms-length;
+  sales that do not go through MLS (and thus aren't exposed to the market)
+  can't tell anything about the "true market price".
 
 - However, some excluded properties seem to be "qualified" &mdash;
-that is arms-length, market-rate sales.
+  that is arms-length, market-rate sales, yet they were excluded from consideration, decreasing the "sample size".
 
 - Furthermore, some properties that were included may not be arms-length.
-One property that was appraised about $1M in 2020 actually
-sold for more than twice that in 2021.
-It doesn't seem credible that this was an arms-length sale,
-and likely should have been excluded.
+  One property that was appraised about $1M in 2020 actually
+  sold for more than twice that in 2021.
+  It doesn't seem credible that this was an arms-length sale,
+  and likely should have been excluded.
 
-- We have requested the justification for including and excluding properties from the Town,
-but this information has not been forthcoming.
+- We have requested the justification for including and excluding
+  properties from the Town, but this information has not been forthcoming.
 
 - Late delivery. In 2021 and 2022, the Assessor delivered the data after
-the deadline for the Town to file the requisite paperwork.
-The Select Board had to request a waiver to turn it in late,
-and consequently never really had a chance to review it.
+  the deadline for the Town to file the requisite paperwork.
+  The Select Board had to request a waiver to turn it in late,
+  and consequently never really had a chance to review it.
 
-- There are several measures (Coefficient of Dispersion and Price-Related Differential)
-that the Assessor and the NH DRA use to determine the quality/correctness of the appraisal statistics.
-Although the values computed for 2021 and 2022 are within the standards,
-the lack of supporting data for inclusions and exclusions casts doubt on their reliability.
-(The DRA has stated that they assume the underlying data is correct:
-they then check the Town's arithmetic. But that's not the problem.)
+- There are several measures (Coefficient of Dispersion
+  and Price-Related Differential)
+  that the Assessor and the NH DRA use to determine the quality/correctness of the appraisal statistics.
+  Although the values computed for 2021 and 2022 are within the standards,
+  the lack of supporting data for inclusions and exclusions casts doubt on their reliability.
+  (The DRA has stated that they assume the underlying data is correct:
+  they then check the Town's arithmetic. But that's not the problem.)
 
 ## How would a statistical revaluation help?
 
@@ -67,13 +68,14 @@ The CAMA model was not well calibrated with its 2021 data.
 Its predictions in 2022 continue to predict significantly low appraised values of more expensive homes.
 This will continue until the CAMA model is recalibrated by a revaluation of some sort.
 
-- A statistical revaluation assumes the underlying (physical) property data is correct.
-It reviews the recent sale prices and re-computes the CAMA model factors.
-(Because it does not require a visit to a property, it is less expensive than a Full Revaluation.)
+- A statistical revaluation assumes the underlying (physical)
+  property data is correct.
+  It reviews the recent sale prices and re-computes the CAMA model factors.
+  (Because it does not require a visit to a property, it is less expensive than a Full Revaluation.)
 
 - We are hopeful that the Assessor will deliver the data early enough
-(at least a month before the deadline) to allow the Select Board
-to review it and to pass it along to citizens for their review.
+  (at least a month before the deadline) to allow the Select Board
+  to review it and to pass it along to citizens for their review.
 
 <!--
 
@@ -130,3 +132,5 @@ they don't seem to follow any clear logic or pattern.
 Please feel free to attend in-person or tune in via zoom (Link coming...)
 
 -->
+
+_Updated: 7 February 2023_

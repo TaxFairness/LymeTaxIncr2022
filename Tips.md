@@ -43,3 +43,5 @@ After you sign and file your abatement request (you MUST file by March 1, 2023),
 The assessor will then make a recommendation to the Select Board for an updated assessment, which might result in a decreased tax bill (and a rebate).
 
 Questions? Email any question to [selectboard@lymenh.gov](mailto:selectboard@lymenh.gov?Subject=Question%20About%20Abatement)
+
+_Updated: 7 February 2023_
