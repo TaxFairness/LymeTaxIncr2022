@@ -18,9 +18,9 @@ With those changes in appraised values, taxes on the lower-value properties incr
 but the tax on higher-valued properties increased only 4.4%.
 
 More recently &mdash; in the last 15 months &mdash; properties selling
-for more than \$500,000 have sold on average for 40% more than
+for more than \$500,000 have sold on average for 65% more than
 their town-appraised value while properties selling for less than \$500,000
-on average sold for 15% more than their town-appraised value.
+on average sold for 18% more than their town-appraised value.
 
 The following chart of those 44 recent sales shows how the inequity
 continues from the 2021 revaluation into this year.
