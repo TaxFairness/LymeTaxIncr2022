@@ -13,4 +13,4 @@ Recent discussions on this Listserv regarding the School budget, the impact of p
 
 When Warrant Article 16 passes at Town Meeting this year, many households should see their taxes decrease.
 More importantly, it will reset the factors used to set appraised values for the next five years so they are closer to the true market values.
-This will ensure that all properties in Lyme are appraised and taxed in an equitable manner. Since 2022, our taxes have become demonstrably inequitable, and the tax burden has shifted disproportionately onto owners of lower-valued properties. You can learn more about this at [bit.ly/LymeTax2023](bit.ly/LymeTax2023)
+This will ensure that all properties in Lyme are appraised and taxed in an equitable manner. Since 2022, our taxes have become demonstrably inequitable, and the tax burden has shifted disproportionately onto owners of lower-valued properties. You can learn more about this at [bit.ly/LymeTax2023](https://bit.ly/LymeTax2023)
