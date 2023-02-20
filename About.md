@@ -1,7 +1,5 @@
 # Why Does Lyme need a Revaluation?
 
-> Update - 4 Feb 2023: The petition article was submitted with sufficient signatures to be placed on the Warrant. It will be discussed and voted on at March Town Meeting.
-
 Lyme's property tax burden has not been equitably shared for the last two years.
 High-value properties are taxed at much less than their true value.
 This transfers a portion of the tax burden to lower-value properties.

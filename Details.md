@@ -2,7 +2,7 @@
 
 # The Details - Why a Statistical Revaluation?
 
-We are asking for a "statistical revaluation" to correct some problems (errors) that occurred in the 2021 Full Revaluation. Here's a quick rundown:
+We are asking for a _Statistical Revaluation_ to correct some problems (errors) that occurred in the 2021 Full Revaluation. Here's a quick rundown:
 
 Every five years, a town is required to do a Full Revaluation to calibrate
 the parameters of the CAMA (Computer Assisted Mass Appraisal) model for properties in town.
@@ -14,7 +14,7 @@ a prediction of "market price"
 if the property were placed on the open market.
 
 Each _revaluation_ is an opportunity to
-review all "qualified" sales within a 12 month period and
+review all recent "qualified" sales and
 adjust the weighting factors of the CAMA model.
 When the factors have been corrected, the CAMA should produce an appraised value
 that's within 10% +/- of the actual sales price for every one of the qualified sales.
@@ -28,7 +28,7 @@ Here are some of the things we've observed:
 - Small sample size.
   There were about 140 sales in the 2021 revaluation period.
   Over half were excluded.
-  With such a small sample size, an outlier in the input data can produce incorrect results.
+  With such a small sample size, one outlier in the input data can produce incorrect results.
 
 - Some exclusions are proper &mdash;
   a transfer from a couple to their estate doesn't provide any valid price information;
@@ -61,17 +61,20 @@ Here are some of the things we've observed:
   (The DRA has stated that they assume the underlying data is correct:
   they then check the Town's arithmetic. But that's not the problem.)
 
-## How would a statistical revaluation help?
+## How would a Statistical Revaluation help?
 
 Bad data in gives bad data out.
 The CAMA model was not well calibrated with its 2021 data.
 Its predictions in 2022 continue to predict significantly low appraised values of more expensive homes.
 This will continue until the CAMA model is recalibrated by a revaluation of some sort.
 
-- A statistical revaluation assumes the underlying (physical)
+- Any revaluation would reset the weighting factors of the CAMA model for Lyme.
+
+- A Statistical Revaluation assumes the underlying (physical)
   property data is correct.
   It reviews the recent sale prices and re-computes the CAMA model factors.
-  (Because it does not require a visit to a property, it is less expensive than a Full Revaluation.)
+  (Because it does not require visits to properties,
+  a Statistical Revaluation is less expensive than a Full Revaluation.)
 
 - We are hopeful that the Assessor will deliver the data early enough
   (at least a month before the deadline) to allow the Select Board
