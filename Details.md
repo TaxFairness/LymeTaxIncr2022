@@ -80,6 +80,38 @@ This will continue until the CAMA model is recalibrated by a revaluation of some
   (at least a month before the deadline) to allow the Select Board
   to review it and to pass it along to citizens for their review.
 
+## Appraised Value, Market Price &mdash; What do these all mean?
+
+The "appraised value" of a property is used for determining its tax bill.
+It is set by the Town's property value calculator,
+which attempts to predict the market price of the property.
+When a property sells, its sale price indicates the _actual_ market value.
+After a revaluation, the two values (recent sales price and calculated appraised value)
+should be within 10% &mdash; between 90% and 110% &mdash;
+according to professional appraisal standards.
+
+A property that's "under-appraised" simply means that its
+(calculated) appraised value is below its actual selling price.
+In a rising market, new sales will frequently be under-appraised,
+mostly because the factors used to adjust the appraised value calculator fall behind the market.
+
+This is not a problem as long as the difference between sales price
+and appraised values is the same for all recently-sold properties.
+That situation is equitable since each home pays its fair share of the money required to run the town.
+
+But... it becomes unfair when sales price and appraised value
+differ across the range of prices.
+As we see in the chart, Lyme's lower-price properties are appraised
+closer to their sale price than more expensive properties.
+That is, those higher-price properties pay a lower effective tax rate
+(the tax bill divided by the sale price) as indicated in the chart above.
+
+Most importantly, this affects every property in town,
+even those that have not sold recently.
+Because the same factors are used to calculate the appraised value
+(the expected market price),
+less-expensive properties bear a larger share of the tax burden.
+
 <!--
 
 There is concern about the impact of Lyme’s revaluation on the fairness of Lyme's property tax for 2021:
@@ -136,4 +168,4 @@ Please feel free to attend in-person or tune in via zoom (Link coming...)
 
 -->
 
-_Updated: 7 February 2023_
+_Updated: 21 February 2023_

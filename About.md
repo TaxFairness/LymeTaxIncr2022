@@ -1,4 +1,14 @@
-# Why Does Lyme need a Revaluation?
+# About the Warrant Article
+
+Warrant Article #16 at Town Meeting calls for a full Statistical Revaluation of the town. It asks:
+
+<style>blockquote{  border-left: 3px solid #ccc; padding-left: 10px;}</style>
+
+> Article 16: To see if the Town shall require the Select Board to perform a “Full Statistical Revaluation” for the tax year 2024 to update appraised property values to more accurately reflect current market (ad Valorem) values and establish a new base year pursuant to RSA 75:1 Rev 601.02; and further to withdraw the sum of fifty-five thousand dollars (\$55,000.00) from the Property Reappraisal Capital Reserve Fund for this purpose.
+
+The article was added by petition to adjust property values to conform with market values, as required by NH state law, and to restore fair taxation within our Town.
+
+## Why is this needed?
 
 Lyme's property tax burden has not been equitably shared for the last two years.
 High-value properties are taxed at much less than their true value.
@@ -20,13 +30,15 @@ for more than \$500,000 have sold on average for 65% more than
 their town-appraised value while properties selling for less than \$500,000
 on average sold for 18% more than their town-appraised value.
 
+<!--
 The following chart of those 44 recent sales shows how the inequity
 continues from the 2021 revaluation into this year.
 
 <img style="max-width:90%; margin-left:auto; margin-right:auto; display:block; height:auto"
 src="./images/Appraised-vs-Sales Price-v6.png" >
+-->
 
-## Why is this important?
+## Is this still important?
 
 If we do nothing, our tax bills will be based on the
 inequitable 2021 appraisal for three more years (until 2026).
@@ -46,52 +58,17 @@ to rebalance all the property values in Lyme, ensuring that
 homes in all price ranges carry their fair share of the property tax burden.
 That’s the reason we created the Warrant Article below for Town Meeting in March 2023.
 
-## The Warrant Article
-
-Article ###: To see if the Town shall require the Select Board to perform a “Full Statistical Revaluation” for the tax year 2024 to update appraised property values to more accurately reflect current market (ad Valorem) values and establish a new base year pursuant to RSA 75:1 Rev 601.02; and further to withdraw the sum of fifty-five thousand dollars (\$55,000.00) from the Property Reappraisal Capital Reserve Fund for this purpose.
-
 ## What will this cost?
 
 A Full Statistical Revaluation will cost about \$55,000.
-The Town maintains a reserve fund for reappraisals that currently has \$56,000.
+However no new money will be necessary because
+the Town maintains a reserve fund for reappraisals, which currently contains \$56,000.
 The Town contributes about \$10,000 to that fund every year,
-so there is money to pay for the effort.
+so there will be money to pay for the next required revaluation in five more years.
 
 ## Is this Warrant Article binding?
 
 Yes. A petition article that has money attached is binding
-if approved by the voters at Town Meeting.
+when approved by the voters at Town Meeting.
 
-## Appraised Value, Market Price &mdash; What do these all mean?
-
-The "appraised value" of a property is used for determining its tax bill.
-It is set by the Town's property value calculator,
-which attempts to predict the market price of the property.
-When a property sells, its sale price indicates the _actual_ market value.
-After a revaluation, the two values (recent sales price and calculated appraised value)
-should be within 10% &mdash; between 90% and 110% &mdash;
-according to professional appraisal standards.
-
-A property that's "under-appraised" simply means that its
-(calculated) appraised value is below its actual selling price.
-In a rising market, new sales will frequently be under-appraised,
-mostly because the factors used to adjust the appraised value calculator fall behind the market.
-
-This is not a problem as long as the difference between sales price
-and appraised values is the same for all recently-sold properties.
-That situation is equitable since each home pays its fair share of the money required to run the town.
-
-But... it becomes unfair when sales price and appraised value
-differ across the range of prices.
-As we see in the chart, Lyme's lower-price properties are appraised
-closer to their sale price than more expensive properties.
-That is, those higher-price properties pay a lower effective tax rate
-(the tax bill divided by the sale price) as indicated in the chart above.
-
-Most importantly, this affects every property in town,
-even those that have not sold recently.
-Because the same factors are used to calculate the appraised value
-(the expected market price),
-less-expensive properties bear a larger share of the tax burden.
-
-_Updated: 7 February 2023_
+_Updated: 21 February 2023_
