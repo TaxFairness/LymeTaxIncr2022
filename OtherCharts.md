@@ -4,7 +4,7 @@ At Town Meeting (March 14), the Town will be asked to vote on Article #16 to per
 
 How will a revaluation help? A revaluation allows the town to adjust the factors that set _each_ property's appraisal to match current conditions, ironing out the kinks and problems from the 2021 revaluation.
 
-Here's a different way to look at the data:
+Here are a couple different ways to look at the data:
 
 ## Chart #1: How much did your _Appraisal_ change?
 
