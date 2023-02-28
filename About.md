@@ -1,6 +1,6 @@
 # About the Warrant Article
 
-Warrant Article #16 at Town Meeting calls for a full Statistical Revaluation of the town. It asks:
+Warrant Article #16 at Town Meeting (March 14) calls for a full Statistical Revaluation of the town. It asks:
 
 <style>blockquote{  border-left: 3px solid #ccc; padding-left: 10px;}</style>
 
