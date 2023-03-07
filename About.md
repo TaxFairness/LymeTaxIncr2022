@@ -71,4 +71,4 @@ so there will be money to pay for the next required revaluation in five more yea
 Yes. A petition article that has money attached is binding
 when approved by the voters at Town Meeting.
 
-_Updated: 21 February 2023_
+_Updated: 6 March 2023_

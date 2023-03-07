@@ -25,3 +25,5 @@ With all the recent discussion of Warrant Article #16 to be voted on at the town
    (\$450,000 / 1,000) x \$23.98 = $10,791
 
 9. As a final step, any applicable discounts are then applied to the tax bill for approved exemptions such as those for qualifying elders, the blind, or disabled veterans.
+
+_Updated 6 March 2023_
