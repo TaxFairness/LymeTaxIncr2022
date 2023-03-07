@@ -6,7 +6,7 @@ Warrant Article #16 at Town Meeting (March 14) calls for a full Statistical Reva
 
 > Article 16: To see if the Town shall require the Select Board to perform a “Full Statistical Revaluation” for the tax year 2024 to update appraised property values to more accurately reflect current market (ad Valorem) values and establish a new base year pursuant to RSA 75:1 Rev 601.02; and further to withdraw the sum of fifty-five thousand dollars (\$55,000.00) from the Property Reappraisal Capital Reserve Fund for this purpose.
 
-The article was added by petition to adjust property values to conform with market values, as required by NH state law, and to restore fair taxation within our Town.
+This article was drafted by a number of Lyme residents including David Avery, Rich Brown, Susan MacKenzie, Hebe Quinton, Michael Whitman and Janet Williams in consultation with many others in town. The petition received forty-nine signatures in support of its inclusion in the Town Warrant.
 
 ## Why is this needed?
 
