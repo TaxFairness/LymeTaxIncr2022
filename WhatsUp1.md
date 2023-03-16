@@ -15,4 +15,5 @@ When Warrant Article 16 passes at Town Meeting this year, many households should
 This article is intended to ensure that all properties in Lyme are appraised and taxed in an equitable manner.
 You can learn more about this at [bit.ly/LymeTax2023](https://bit.ly/LymeTax2023)
 
-_Updated: 22 February 2023_
+## Who proposed this article?
+This article was drafted by a number of Lyme residents including David Avery, Rich Brown, Susan MacKenzie, Hebe Quinton, Michael Whitman and Janet Williams in consultation with many others in town. The petition received forty-nine signatures in support of its inclusion in the Town Warrant.
